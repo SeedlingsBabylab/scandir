@@ -11,3 +11,8 @@ scan folders for cha files with particular characteristics
 
 There are variables that need setting within the script files themselves.
 There's comments in each individual script
+
+
+## dependencies
+
+These scripts depend on [pyclan](https://github.com/SeedlingsBabylab/pyclan)
